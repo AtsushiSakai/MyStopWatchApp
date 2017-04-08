@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					D8E941EC1E8F76EF0051B16F = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = RA5AD6ECF8;
 						ProvisioningStyle = Automatic;
 					};
 					D8E942001E8F76EF0051B16F = {
@@ -412,6 +413,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = RA5AD6ECF8;
 				INFOPLIST_FILE = MyStopWatchApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = git.MyStopWatchApp;
@@ -424,6 +426,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = RA5AD6ECF8;
 				INFOPLIST_FILE = MyStopWatchApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = git.MyStopWatchApp;
@@ -505,6 +508,7 @@
 				D8E942171E8F76EF0051B16F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D8E942181E8F76EF0051B16F /* Build configuration list for PBXNativeTarget "MyStopWatchAppTests" */ = {
 			isa = XCConfigurationList;
@@ -513,6 +517,7 @@
 				D8E9421A1E8F76EF0051B16F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D8E9421B1E8F76EF0051B16F /* Build configuration list for PBXNativeTarget "MyStopWatchAppUITests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +526,7 @@
 				D8E9421D1E8F76EF0051B16F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
